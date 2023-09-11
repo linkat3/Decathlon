@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 96 960 960"
+   width="48"
+   version="1.1"
+   id="svg478"
+   sodipodi:docname="iconoflecha2.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs482" />
+  <sodipodi:namedview
+     id="namedview480"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.520833"
+     inkscape:cx="11.167951"
+     inkscape:cy="18.046225"
+     inkscape:window-width="1280"
+     inkscape:window-height="649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg478" />
+  <path
+     d="M 37.621006,544.94738 472.59344,132.1418 885.39902,567.11425 450.42658,979.91979 Z"
+     id="path476"
+     style="fill:#ddaa44;stroke-width:0.832881;fill-opacity:1" />
+  <path
+     d="m 583.62294,408.74116 74.67521,107.35128 -71.71681,102.91371 -19.82246,-33.15311 38.52573,-47.40152 H 354.50748 V 671.06398 H 326.84822 V 492.96236 h 277.9754 l -41.02314,-51.06811 z"
+     id="path288"
+     style="fill:#ffffff;stroke-width:0.596173"
+     sodipodi:nodetypes="cccccccccccc" />
+</svg>
