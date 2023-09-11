@@ -1,0 +1,61 @@
+.amarillo {
+    color: #0082C3;
+  }
+  .amarillohover:hover{
+    color: #01649F;
+  }
+  h1{
+    font-family: "Architects Daughter", sans-serif;
+  }
+
+
+  .titulo {
+    font-family: "Architects Daughter", sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+    line-height: normal;
+  }
+  .menu {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: normal;
+  }
+
+  button {
+    border: 0;
+    background-color: white;
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+
+  .navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  nav .navbar-nav li a{
+    color: #ddaa44;
+  }
+  nav .navbar-nav li a:hover{
+    color: #7f693f;
+  }
+  nav  {
+    background: #fff;
+    position: fixed;
+  }
+  #telefono{
+    height:30px;
+  }
+
+  .subtitulos{
+    font-size: 1rem;
+  }
+
+  .boton{
+    background-color: #ddaa44;
+    border: none;
+    color: white;
+  }
+  
